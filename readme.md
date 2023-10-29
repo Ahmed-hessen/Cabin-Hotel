@@ -1,9 +1,9 @@
 # Cabin Hotel
 
-User Authentication and Signup:
+1-User Authentication and Signup:
 
-1-Hotel employees can log in to the application to perform tasks.
-i.New users can only be signed up within the application to ensure that only actual hotel employees can create accounts.
+i.Hotel employees can log in to the application to perform tasks.
+ii.New users can only be signed up within the application to ensure that only actual hotel employees can create accounts.
 
 2-User Profile Management:
 
