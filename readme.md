@@ -1,53 +1,67 @@
 # Cabin Hotel
+1. User Authentication and Signup
+Login for Hotel Employees:
 
-1-User Authentication and Signup:
+Hotel employees can securely log in to the application to access their tasks and responsibilities.
+Signup Within the App:
 
-i.Hotel employees can log in to the application to perform tasks.
-ii.New users can only be signed up within the application to ensure that only actual hotel employees can create accounts.
+New users can only be signed up within the application, ensuring that accounts are created exclusively for hotel employees.
+2. User Profile Management
+Avatar Customization:
 
-2-User Profile Management:
+Users can personalize their profiles by uploading avatars.
+Name and Password Update:
 
-i.Users can upload an avatar to personalize their profile.
-ii.Users can change their name and password.
+Users have the flexibility to change their names and passwords as needed.
+3. Cabin Management
+Table View of Cabins:
 
-3-Cabin Management:
+A user-friendly table view displays all cabins with detailed information.
+Cabin Information:
 
-i.The app provides a table view with all cabins.
-ii.The table view displays cabin information, including cabin photo, name, capacity, price, and current discount.
-iii.Users can update or delete existing cabins.
-iv.Users can create new cabins, including the ability to upload a photo.
+Information includes cabin photo, name, capacity, price, and current discount.
+User Actions:
 
-4-Booking Management:
+Users can update, delete, or create new cabins, including the option to upload cabin photos.
+4. Booking Management
+Table View of Bookings:
 
-i.The app provides a table view with all bookings.
-ii.The table view displays booking information, including arrival and departure dates, booking status, paid amount, cabin details, and guest data.
-iii.Booking status can be "unconfirmed," "checked in," or "checked out."
-iv.The table view is filterable by booking status.
-v.Additional booking data includes the number of guests, number of nights, guest observations, and whether breakfast was booked and its price.
+A detailed table view provides information on bookings, including dates, status, payment details, cabin info, and guest data.
+Booking Status and Filters:
 
-5-Booking Operations:
+Bookings can be filtered by status, with options for "unconfirmed," "checked in," or "checked out."
+Additional Booking Data:
 
-i.Users can delete, check in, or check out a booking as the guest arrives.
-ii.On check-in, users can accept payment outside the app and then confirm the payment within the app.
-iii.Guests can add breakfast for the entire stay during check-in if they haven't already.
+Guest-related details such as the number of guests, nights, observations, and breakfast information are included.
+5. Booking Operations
+Flexible Operations:
 
-6-Guest Data Management:
+Users can delete, check in, or check out a booking upon guest arrival.
+Payment Processing:
 
-i.Guest data contains full name, email, national ID, nationality, and a country flag for easy identification.
+Check-in includes the ability to accept payments outside the app and confirm within.
+Breakfast Additions:
 
-7-Dashboard:
+Guests can add breakfast for the entire stay during check-in.
+6. Guest Data Management
+Comprehensive Guest Data:
+Guest data includes full name, email, national ID, nationality, and a country flag for easy identification.
+7. Dashboard
+Informative Overview:
 
-i.The initial app screen serves as a dashboard displaying important information for the last 7, 30, or 90 days.
-ii.It shows a list of guests checking in and out on the current day, and users can perform tasks related to these activities from the dashboard.
-iii.The dashboard provides statistics on recent bookings, sales, check-ins, and occupancy rates.
-iv.It includes a chart showing all daily hotel sales, distinguishing between "total" sales and "extras" sales (only breakfast at present).
-v.There's also a chart displaying statistics on stay durations, an important metric for the hotel.
+The dashboard provides a snapshot of the last 7, 30, or 90 days.
+Real-time Activities:
 
-8-Application-wide Settings:
+Lists guests checking in and out on the current day, allowing users to perform related tasks from the dashboard.
+Statistical Insights:
 
-i.Users can define application-wide settings such as breakfast price, minimum and maximum nights per booking, and maximum guests per booking.
+Includes statistics on recent bookings, sales, check-ins, and occupancy rates.
+Visual Representations:
 
-9-Dark Mode:
-
-i.The app includes a dark mode option for a different visual appearance and enhanced user experience in low-light conditions.
-
+Charts display daily hotel sales, distinguishing between total and extras (currently breakfast-only) sales. Another chart shows stay duration statistics.
+8. Application-wide Settings
+Customizable Settings:
+Users can define application-wide settings such as breakfast price, minimum and maximum nights per booking, and maximum guests per booking.
+9. Dark Mode
+Enhanced User Experience:
+The app features a dark mode option for a different visual appearance and an improved user experience in low-light conditions.
